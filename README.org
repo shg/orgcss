@@ -1,0 +1,8 @@
+* Personal custom CSS for HTML exported from Org
+
+Insert below to Org header.
+
+#+begin_src org
+,#+OPTIONS: toc:nil html-postamble:nil
+,#+HTML_HEAD: <link rel="stylesheet" type="text/css" href="https://shg.github.io/orgcss/org.css"/>
+#+end_src
